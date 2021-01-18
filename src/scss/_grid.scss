@@ -1,0 +1,128 @@
+.grid{
+  display: flex;
+  flex-wrap: wrap;
+
+  &__border{
+    width: 50%;
+    margin-top: 72px;
+    border-top: 2px solid #ffffff;
+  }
+}
+.grid__element {
+  display: flex;
+  justify-content: center;
+  width: 25%;
+  height: 360px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 32px;
+  line-height: 34px;
+  letter-spacing: -0.006em;
+  color: #FFFFFF;
+
+  @media (max-width: 1200px) {
+    width: 50%;
+  }
+
+  &__1 {
+    background-color: #FFE2DE;
+  }
+
+  &__2 {
+    background-color: #C4E769;
+  }
+
+  &__3 {
+    background-color: #62D0DF;
+  }
+
+  &__4 {
+    background-color: #0052C1;
+  }
+
+  &__5 {
+    background-color: #22356F;
+  }
+
+  &__6 {
+    background-color: #0052C1;
+  }
+
+  &__7 {
+    background-color: #a2dbda;
+  }
+
+  &__8 {
+    background-color: #62D0DF;
+  }
+
+  &__9 {
+    background-color: #DEE1FF;
+  }
+
+  &__10 {
+    background-color: #8F00FF;
+  }
+}
+
+.grid__list{
+    margin-top: 23px;
+  }
+
+.grid__list::marker{
+    color: #E9B730;
+  }
+
+.element__grid{
+  width: 33.333%;
+  height: 480px;
+
+  @media (max-width: 1200px) {
+    height: 400px;
+  }
+}
+
+.grid--6{
+  margin-top: 22px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+
+  @media (max-width: 1200px) {
+    justify-content: left;
+  }
+}
+
+
+.grid-1, .grid-2, .grid-3, .grid-4, .grid-5, .grid-6{
+  height: 240px;
+  width: 480px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-left: 105px;
+
+  @media (max-width: 1200px) {
+    width: 40%;
+    margin-left: 50px;
+    align-items: center;
+  }
+}
+
+.grid-1__title, .grid-2__title, .grid-3__title, .grid-4__title, .grid-5__title, .grid-6__title{
+  font-family: 'Roboto', sans-serif;
+  font-size: 28px;
+  line-height: 33px;
+  letter-spacing: -0.03em;
+  color: #22356F;
+  margin-bottom: 28px;
+}
+
+.grid-1__content, .grid-2__content, .grid-3__content, .grid-4__content, .grid-5__content, .grid-6__content {
+  font-family: 'Roboto', sans-serif;
+  font-size: 16px;
+  line-height: 25px;
+  letter-spacing: -0.03em;
+  color: #22356F;
+  height: 84px;
+  width: 298px;
+}

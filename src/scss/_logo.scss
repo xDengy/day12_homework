@@ -1,0 +1,43 @@
+.page {
+  margin: 0;
+}
+
+.header_bottom{
+      margin-top: 123px;
+      font-size: 20px;
+      line-height: 21px;
+      letter-spacing: -0.006em;
+      font-family: 'Roboto', sans-serif;
+      color: #696969;
+      text-align: center;
+      margin-bottom: 51px;
+    }
+
+.logo{
+    margin-top: 41px;
+    margin-left: 36px;
+    display: flex;
+    align-items: center;
+
+  @media (max-width: 1200px) {
+    justify-content: center;
+  }
+
+    &__img{
+      margin-bottom: 0;
+      height: 60px;
+      margin-right: 10px;
+    }
+
+    &__title{
+      font-size: 24px;
+      color: #547091;
+      font-family: 'Roboto', sans-serif;
+      text-transform: uppercase;
+    }
+}
+
+
+
+
+

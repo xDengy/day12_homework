@@ -1,0 +1,26 @@
+{
+  "name": "day12_hw",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xDengy/day12_homework.git"
+  },
+  "author": "Danil",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xDengy/day12_homework/issues"
+  },
+  "homepage": "https://github.com/xDengy/day12_homework#readme",
+  "devDependencies": {
+    "laravel-mix": "^6.0.9",
+    "postcss": "^8.1.14",
+    "resolve-url-loader": "^3.1.0",
+    "sass": "^1.32.4",
+    "sass-loader": "^8.0.2"
+  }
+}

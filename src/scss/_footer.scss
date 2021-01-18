@@ -1,0 +1,28 @@
+.footer {
+  background: #62D0DF;
+  height: 80px;
+
+  &__ul {
+    font-family: 'Roboto', sans-serif;
+    font-size: 14px;
+    line-height: 11px;
+    letter-spacing: -0.006em;
+    color: #FFFFFF;
+    margin-left: 179px;
+    padding-top: 32px;
+    margin-top: 0;
+
+    @media (max-width: 1200px) {
+      margin-left: 0;
+    }
+  }
+}
+
+.footer__list{
+  padding-left: 9px;
+}
+
+.footer__list::marker{
+  content: "@";
+
+}
