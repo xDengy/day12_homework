@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9bd461e2-d99a-47b8-8a34-27fb147b7e9a" name="Default Changelist" comment="" />
+    <list default="true" id="9bd461e2-d99a-47b8-8a34-27fb147b7e9a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/css/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/dist/css/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/landing/Thrivetalk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/dist/images/landing/Thrivetalk.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/images/landing/oval.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/dist/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/dist/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mix-manifest.json" beforeDir="false" afterPath="$PROJECT_DIR$/mix-manifest.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/images/landing/Thrivetalk.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/src/images/landing/Thrivetalk.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/scss/_landing.scss" beforeDir="false" afterPath="$PROJECT_DIR$/src/scss/_landing.scss" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -9,6 +20,12 @@
   </component>
   <component name="ComposerSettings">
     <execution />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
   </component>
   <component name="ProjectId" id="1n3l2LKt5NpywhRcXdOXfpJPnuo" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -50,10 +67,24 @@
       <workItem from="1610970918765" duration="3672000" />
       <workItem from="1610976595386" duration="3165000" />
       <workItem from="1610980012211" duration="7361000" />
+      <workItem from="1610987852572" duration="3482000" />
+      <workItem from="1610992018350" duration="442000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

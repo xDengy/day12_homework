@@ -134,7 +134,7 @@
 }
 
 .landing {
-  width: 1258px;
+  width: 71.8%;
   height: 900px;
   background-color: #F4F9E2;
   display: flex;
@@ -237,9 +237,6 @@
 
 .btn {
   display: inline-block;
-}
-
-.btn {
   margin-top: 66px;
   color: #F9B640;
   width: 150px;
@@ -258,7 +255,7 @@
 }
 
 .landing__right {
-  width: 464px;
+  width: 28.2%;
   margin-top: 27px;
   display: flex;
   flex-direction: column;
@@ -282,11 +279,10 @@
   justify-content: center;
   align-items: center;
   color: #FFFFFF;
-  margin-bottom: 40px;
 }
 
 .talk {
-  border-radius: 312.159px;
+  margin-left: -210px;
 }
 
 .thrive {
